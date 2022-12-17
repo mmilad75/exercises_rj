@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppHeader component should render correctly 1`] = `
+<DocumentFragment>
+  <header
+    role="navigation"
+    style="display: flex; justify-content: center; background: rgb(226, 226, 226); margin-bottom: 20px; border-radius: 8px;"
+  >
+    <div
+      role="button"
+      style="margin-right: 16px; padding: 20px; cursor: pointer;"
+    >
+      Users
+    </div>
+    <div
+      role="button"
+      style="margin-right: 16px; padding: 20px; cursor: pointer; color: rgb(29, 161, 242);"
+    >
+      Counter
+    </div>
+    <div
+      role="button"
+      style="margin-right: 16px; padding: 20px; cursor: pointer;"
+    >
+      Login
+    </div>
+  </header>
+</DocumentFragment>
+`;

@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Counter component should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    style="text-align: center;"
+  >
+    <h2>
+      Counter: 0
+    </h2>
+    <button
+      style="padding: 0.5rem 1rem; margin: 0px 0.5rem; border-radius: 4px; background: rgb(20, 23, 26); color: rgb(255, 255, 255);"
+    >
+      Increment
+    </button>
+    <button
+      style="padding: 0.5rem 1rem; margin: 0px 0.5rem; border-radius: 4px; background: rgb(20, 23, 26); color: rgb(255, 255, 255);"
+    >
+      Decrement
+    </button>
+    <select
+      style="padding: 0.4rem 1rem; margin: 0px 0.5rem; border-color: #14171a; border-radius: 4px;"
+    >
+      <option
+        value="1"
+      >
+        1
+      </option>
+      <option
+        value="5"
+      >
+        5
+      </option>
+      <option
+        value="10"
+      >
+        10
+      </option>
+    </select>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UsersItem component should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    role="listitem"
+    style="border-bottom: 1px solid #e2e2e2; padding-bottom: 20px; margin-bottom: 20px;"
+  >
+    <h2
+      style="font-size: 1.2rem; margin-bottom: 0px;"
+    >
+      Leanne Graham
+    </h2>
+    <p
+      style="margin: 0.875rem 0px;"
+    >
+      At Romaguera-Crona company
+    </p>
+    <a
+      href="https://maps.google.com/?q=-37.3159,81.1496"
+      rel="noreferrer"
+      style="font-style: italic; text-decoration: none;"
+      target="_blank"
+    >
+      Apt. 556, Kulas Light, 92998-3874  Gwenborough
+    </a>
+  </div>
+</DocumentFragment>
+`;

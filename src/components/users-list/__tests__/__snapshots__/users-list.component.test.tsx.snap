@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UsersList component should render correctly 1`] = `
+<DocumentFragment>
+  <div>
+    <h1>
+      Users List
+    </h1>
+    <p>
+      Loading users...
+    </p>
+  </div>
+</DocumentFragment>
+`;

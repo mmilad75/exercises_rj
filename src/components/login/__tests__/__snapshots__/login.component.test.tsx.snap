@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login component should render correctly 1`] = `
+<DocumentFragment>
+  <form
+    style="text-align: center; max-width: 400px; margin: 0px auto;"
+  >
+    <h1>
+      Login
+    </h1>
+    <div>
+      <div>
+        <input
+          name="email"
+          placeholder="your-email@email.com"
+          style="width: 100%; padding: 1rem; margin-bottom: 1rem; border-radius: 8px; background: rgb(225, 232, 237);"
+          type="text"
+          value=""
+        />
+      </div>
+      <div>
+        <input
+          name="password"
+          placeholder="Enter your password"
+          style="width: 100%; padding: 1rem; margin-bottom: 1rem; border-radius: 8px; background: rgb(225, 232, 237);"
+          type="password"
+          value=""
+        />
+      </div>
+    </div>
+    <button
+      style="padding: 0.5rem 1rem; margin: 0px 0.5rem; border-radius: 4px; background: rgb(20, 23, 26); color: rgb(255, 255, 255); font-size: 1rem;"
+      type="submit"
+    >
+      Login
+    </button>
+  </form>
+</DocumentFragment>
+`;

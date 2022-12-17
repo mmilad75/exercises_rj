@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <header
+      role="navigation"
+      style="display: flex; justify-content: center; background: rgb(226, 226, 226); margin-bottom: 20px; border-radius: 8px;"
+    >
+      <div
+        role="button"
+        style="margin-right: 16px; padding: 20px; cursor: pointer; color: rgb(29, 161, 242);"
+      >
+        Users
+      </div>
+      <div
+        role="button"
+        style="margin-right: 16px; padding: 20px; cursor: pointer;"
+      >
+        Counter
+      </div>
+      <div
+        role="button"
+        style="margin-right: 16px; padding: 20px; cursor: pointer;"
+      >
+        Login
+      </div>
+    </header>
+    <div
+      style="width: 90%; max-width: 960px; margin: 0px auto;"
+    >
+      <div>
+        <h1>
+          Users List
+        </h1>
+        <p>
+          Loading users...
+        </p>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
